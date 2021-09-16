@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "buzzchoiceasy.app"
-               BlueprintName = "buzzchoiceasy"
-               ReferencedContainer = "container:buzzchoiceasy.xcodeproj">
+               BuildableName = "ExpoProject.app"
+               BlueprintName = "ExpoProject"
+               ReferencedContainer = "container:ExpoProject.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "buzzchoiceasyTests.xctest"
-               BlueprintName = "buzzchoiceasyTests"
-               ReferencedContainer = "container:buzzchoiceasy.xcodeproj">
+               BuildableName = "ExpoProjectTests.xctest"
+               BlueprintName = "ExpoProjectTests"
+               ReferencedContainer = "container:ExpoProject.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "buzzchoiceasy.app"
-            BlueprintName = "buzzchoiceasy"
-            ReferencedContainer = "container:buzzchoiceasy.xcodeproj">
+            BuildableName = "ExpoProject.app"
+            BlueprintName = "ExpoProject"
+            ReferencedContainer = "container:ExpoProject.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "buzzchoiceasy.app"
-            BlueprintName = "buzzchoiceasy"
-            ReferencedContainer = "container:buzzchoiceasy.xcodeproj">
+            BuildableName = "ExpoProject.app"
+            BlueprintName = "ExpoProject"
+            ReferencedContainer = "container:ExpoProject.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
