@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "buzzchoiceasy",
-    "slug": "buzzchoiceasy",
+    "name": "ExpoProject",
+    "slug": "ExpoProject",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "buzzchoiceasy"
+  "name": "ExpoProject"
 }
