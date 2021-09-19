@@ -100,7 +100,8 @@ export default StyleSheet.create({
       },
       inputSearchBarStyle: {
         backgroundColor: 'white',
-        height:20,
+        borderRadius: 20,
+        height: 30,
       },
 
       // Exemple

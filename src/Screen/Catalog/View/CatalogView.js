@@ -9,7 +9,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 
 
 
-const HomeView = (props) => {
+const HomeView = (props, navigation) => {
     const RenderItem = ({item, press}) => {
         return (
             <TouchableOpacity onPress={()=> press(item)}>

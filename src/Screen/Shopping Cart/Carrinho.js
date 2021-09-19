@@ -1,7 +1,7 @@
 import React from 'react';
 import { Text, View } from 'react-native';
 
-function Carrinho() {
+function Carrinho({ navigation }) {
   return (
     <View>
       <Text>Tela de carrinho aqui</Text>
