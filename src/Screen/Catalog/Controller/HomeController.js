@@ -6,8 +6,13 @@ class HomeController extends React.Component{
     
   constructor() {
       super();
+
+        // getUserAuthorization
         let homeModel = new HomeModel();
-        console.log(homeModel.returnText());
+        console.log(homeModel.getUserAuthorization());
+        console.log(homeModel.getCatalogInfo());
+
+
         let arrayPlaces = [];
         for(let inq = 0; inq < 50; inq++){
           arrayPlaces.push({

@@ -1,9 +1,7 @@
 import React from 'react';
-import { Text, Button, View} from 'react-native';
-import {StyleSheet} from "react-native";
-import { Icon, ThemeConsumer } from 'react-native-elements';
-import { HeaderBackButton } from 'react-navigation-stack';
-import { TouchableHighlight, TouchableOpacity } from 'react-native-gesture-handler';
+import { Text, View} from 'react-native';
+import { Icon } from 'react-native-elements';
+import { TouchableOpacity } from 'react-native-gesture-handler';
 
 import { createStackNavigator } from 'react-navigation-stack';
 import { createDrawerNavigator } from 'react-navigation-drawer';
@@ -11,6 +9,7 @@ import { createAppContainer } from 'react-navigation';
 import HomeController from '../Screen/Catalog/Controller/HomeController';
 import Carrinho from '../Screen/Shopping Cart/Carrinho';
 import Produto from '../Screen/ProductInfo/Produto';
+
 
 const AppLogged = createDrawerNavigator({
     Places: createStackNavigator({
